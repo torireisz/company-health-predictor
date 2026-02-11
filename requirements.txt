@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+yfinance
+sec-api
+matplotlib
+seaborn
+plotly
+jupyter
+requests
+beautifulsoup4
